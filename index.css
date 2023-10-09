@@ -1,15 +1,16 @@
-body{
-    background-color: darkslategrey;
-}
-.header{
-    text-align: center;
-    color: white;
-    font-family: Arial Narrow;
-    font-size:large;
-}
 .card-body{
-    background-image: linear-gradient(to right, rgb(255, 250, 210), rgb(66, 66, 66));
-    color: white;
-    text-align: center;
-    font-family: 'Arial Narrow';
+    background-color:rgb(106, 224, 224);
+    font-family:Arial;
+    font-size:small;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.col-md-3{
+    margin-top: 50px;
+}
+.bold{
+    font-weight: bold;
+}
+p{
+    margin-bottom: 10px;
 }
